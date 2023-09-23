@@ -40,8 +40,8 @@ public class Main {
 	}
 		
 		else if (nro1 == 7 && nro2 == 7 && nro3 == 7) {
-			System.out.println("Jackpot! Voitit 5€!");
-			raha += 5;
+			System.out.println("Jackpot! Voitit 10€!");
+			raha += 10;
 		}
 		
 	
