@@ -46,7 +46,7 @@ public class Main {
 		
 	
 	else {
-		System.out.println("Hävisit.");
+		System.out.println("Hävisit pelin.");
 		
 	}
 	}
