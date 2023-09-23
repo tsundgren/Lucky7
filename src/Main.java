@@ -32,7 +32,7 @@ public class Main {
 	
 	raha -= 1;
 	
-	System.out.println(nro1 + " " + nro2 + " " + nro3);
+	System.out.println(nro1 + "*" + nro2 + "*" + nro3);
 	
 	if(nro1 == 7 || nro2 == 7 || nro3 == 7) {
 		System.out.println("Voitit 3€, ONNEA!");
